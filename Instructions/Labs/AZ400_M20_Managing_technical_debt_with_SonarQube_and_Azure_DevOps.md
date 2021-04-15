@@ -272,7 +272,8 @@ In this task, you will create a pipeline by using the classic editor.
     > **Note**: This task is not required unless you want to use the pre-deployment gate along with Release Pipelines.
 
     > **Note**: If this step is enabled, a summary of the analysis results will appear on the **Extensions** tab of the **Build Summary** page. However, this will delay the completion of the build until the processing on SonarCloud has finished.
-
+1. On a new browser tab: go to Project Settings > Overview, in visibility field change it to **Private**.
+    > **Note**: This last step is needed because of a change happening to public projects in February 2021, access to pipelines will need to be requested: https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-public-projects/
 1.  On the build pipeline editor pane, click **Save & queue**, in the dropdown menu, click **Save & queue**, and, on the **Run pipeline** pane, click **Save and run**, and wait for the build to complete.
 
 #### Task 4: Check pipeline results
