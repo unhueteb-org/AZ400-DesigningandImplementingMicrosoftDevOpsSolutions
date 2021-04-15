@@ -242,13 +242,11 @@ In this task, you will create a pipeline by using the YAML editor.
 
 1.  On the **Review your pipeline YAML** pane, click **Save and Run** and, on the **Save and run** pane, click **Save and run**.
 
-    > **Note**: Skip the next task if you used the YAML editor in the previous task.
-
 1. Go to Azure Pipelines > Pipelines and click in **Sonarexample** pipeline, open latest run. You will see it queued, **Cancel** the pending one, click **Yes**. Now click on **Run new** > **Run** to trigger a new run (this time pipeline will have the proper agents assigned for private projects).
 
-
-
 #### Task 3: Create a pipeline by using the classic editor
+
+ > **Note**: Skip the task if you used the YAML editor in the previous task.
 
 In this task, you will create a pipeline by using the classic editor.
 
