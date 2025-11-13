@@ -1,3 +1,7 @@
+> ⚠️ **Notice**  
+> This repository will be **archived on November 14, 2025**.  
+> The new repository for DevOps labs can be found here: [MicrosoftLearning/mslearn-devops](https://github.com/MicrosoftLearning/mslearn-devops)
+
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 ## Welcome
